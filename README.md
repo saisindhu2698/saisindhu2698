@@ -42,7 +42,6 @@ Bachelor of Technology, Electronics and Communication Engineering - 3.4  (June 2
 ### DevOps & Deployment
 [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  [![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  [![](https://img.shields.io/badge/CI/CD-430098?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)  
 
-## 💼 Projects
   
 ## 💼 Projects  
 
