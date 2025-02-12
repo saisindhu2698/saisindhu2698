@@ -9,9 +9,9 @@ I am eager to expand my expertise in AI and machine learning by exploring new co
 ## 🎓 Education
 
 ### [Portland State University](https://www.pdx.edu/computer-science/master)  
-Master of Science, Computer Science - 3.64  (September 2022 - June 2024)  
+Master of Science, Computer Science - 3.64 GPA - (September 2022 - June 2024)  
 ### [St. Ann's College of Engineering and Technology (affiliated under JNTUK)](https://sacet.ac.in/)  
-Bachelor of Technology, Electronics and Communication Engineering - 3.4  (June 2016 - September 2020) 
+Bachelor of Technology, Electronics and Communication Engineering - 3.4 GPA - (June 2016 - September 2020) 
 
 ## 🏆 [Certifications](https://www.credly.com/users/sai-sindhu-muppaneni)
 
